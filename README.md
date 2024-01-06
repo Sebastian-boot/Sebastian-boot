@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sebastian-boot
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Django and Angular
+- 💞️ I’m looking to collaborate on Open Sorce Projects
 - 📫 How to reach me https://www.linkedin.com/in/sebastian-trivino-/
 
 <!---
